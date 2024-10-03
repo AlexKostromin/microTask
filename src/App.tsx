@@ -63,7 +63,7 @@ function App() {
             {/*    <Button callBack={()=>ButtonFoo1('Ivan', 21)} title={'MyYouTubeChanel-1'}/>
             <Button callBack={()=>ButtonFoo2('Vasya')} title={'MyYouTubeChanel-2'}/>*/}
           <NewFilterComponent currentMoney={currentMoney} onclick={onclickHandler}/>
-            <h1></h1>
+            <h1>1</h1>
         </div>
     );
 }
